@@ -1,0 +1,2 @@
+// Variables are values that are constantly changing like the various ranges of temperatures that can occur in a day 
+//while constants are values that cannot be changed for example the value of pie is 3.14 and it is constant throught any calculation
